@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: mycontainername
-          image: myimage
+          image: chetanspec/node-js-samplee
           ports:
             - containerPort: 500
